@@ -1,3 +1,22 @@
-# Thought Product
+# Unified Metrics Playbook
 
-[Thought Product](https://jiwonhur.substack.com/) is my substack blog, where I explore products we use every day and how they change our behavior.
+A curated collection of how leading tech companies define, standardize, and scale their metrics practices.
+
+## What's inside
+
+Case studies and resources organized by company, covering:
+- Metric definition and governance
+- Centralized metric platforms and catalogs
+- Analytics democratization
+
+## Resources
+
+### Airbnb
+- [Introducing Minerva](https://www.youtube.com/watch?v=ksWwdYwXhh0) — 
+  How Airbnb built a centralized metric platform to create a single source 
+  of truth across the org
+
+### Netflix
+- [A Survey of Analytics Engineering at Netflix](https://netflixtechblog.com/part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee) — 
+  How Netflix uses DataJunction to centralize metric definitions and LORE 
+  to democratize data access across teams
