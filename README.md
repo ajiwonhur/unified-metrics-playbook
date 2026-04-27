@@ -17,6 +17,5 @@ Case studies and resources organized by company, covering:
   of truth across the org
 
 ### Netflix
-- [A Survey of Analytics Engineering at Netflix](https://netflixtechblog.com/part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee) — 
-  How Netflix uses DataJunction to centralize metric definitions and LORE 
-  to democratize data access across teams
+- [A Survey of Analytics Engineering at Netflix](https://netflixtechblog.com/part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee#:~:text=DataJunction%3A%20Unifying%20Experimentation%20and%20Analytics) — 
+  How Netflix uses DataJunction to centralize metric definitions and LORE to democratize data access across teams
